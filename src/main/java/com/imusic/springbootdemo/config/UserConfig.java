@@ -6,6 +6,7 @@ import org.springframework.context.annotation.Configuration;
 import com.imusic.springbootdemo.entity.User;
 
 @Configuration
+
 public class UserConfig {
 
 	@Bean
